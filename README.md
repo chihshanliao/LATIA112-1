@@ -12,4 +12,4 @@
 
 顏志凌	國立臺灣師範大學科技應用與人力資源發展學系二年級 http://github.com/Chihlingna/LATIA112-1
 
-王修佑	國立臺灣師範大學資訊工程學系一年級https://github.com/whyhugo/LATIA112-1
+王修佑	國立臺灣師範大學資訊工程學系一年級 https://github.com/whyhugo/LATIA112-1
